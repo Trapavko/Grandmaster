@@ -1,2 +1,7 @@
 # Grandmaster
-Discord bot using Klasa to help with Kabam Contest of Champions management
+
+Yet another bot for Discord.
+
+## Why
+
+Intrigued at Discord bots and their interaction. Always wondered if things can be implemented better.
